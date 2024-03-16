@@ -1,0 +1,2 @@
+allumer node js > node server.js
+allumer react > npm start
